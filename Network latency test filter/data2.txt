@@ -1,0 +1,623 @@
+Start zaznamu 
+
+ut 04. 05. 2021 
+21:30
+
+Pinging 192.168.2.51 with 500 bytes of data:
+
+Ping statistics for 192.168.2.51:
+    Packets: Sent = 600, Received = 522, Lost = 0 (13% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 7ms, Average = 0ms
+ut 04. 05. 2021 
+21:45
+
+Pinging 192.168.2.51 with 500 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=7ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=5ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=2ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.181: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=6ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=4ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=2ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.2.181: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.3.3: Destination host unreachable.
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time=1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+Reply from 192.168.2.51: bytes=500 time<1ms TTL=64
+
+Ping statistics for 192.168.2.51:
+    Packets: Sent = 600, Received = 283, Lost = 0 (52% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 7ms, Average = 0ms
+ut 04. 05. 2021 
+22:19
+
